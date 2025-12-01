@@ -5,5 +5,28 @@
   "icon": "☀️",
   "humidity": 44,
   "windSpeed": 13,
-  "feelsLike": 74
+  "feelsLike": 74,
+  "forecast": [
+    {
+      "day": "Monday",
+      "icon": "⛅",
+      "high": 79,
+      "low": 62,
+      "condition": "Partly Cloudy"
+    },
+    {
+      "day": "Tuesday",
+      "icon": "🌧️",
+      "high": 72,
+      "low": 58,
+      "condition": "Rainy"
+    },
+    {
+      "day": "Wednesday",
+      "icon": "☀️",
+      "high": 81,
+      "low": 65,
+      "condition": "Sunny"
+    }
+  ]
 }
